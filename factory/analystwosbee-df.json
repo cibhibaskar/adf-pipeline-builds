@@ -1,0 +1,9 @@
+{
+	"name": "analystwosbee-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75c91f63-9601-443c-8616-fd7b63de3935",
+		"tenantId": "12f933b3-3d61-4b19-9a4d-689021de8cc9"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "analystwosbee_blob_st",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://analystwosbeestorage.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		},
+		"description": "Linked Service to Blog Storage Containers"
+	}
+}
